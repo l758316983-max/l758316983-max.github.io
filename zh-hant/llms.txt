@@ -1,0 +1,55 @@
+# 少女迴戰 Wiki
+
+> 少女迴戰 Wiki是日服《少女廻戦》和繁中服《少女迴戰》的玩家資料站。已收錄 531 名武將、67 個武靈軀和 15 位超凡者。查武將技能、高畫質立繪、皮膚與首發時間，瀏覽新手攻略、PVE 和 PVP 陣容推薦、武將強度榜和資源獲取。
+
+[簡體中文索引](https://kaisendb.com/llms.txt)
+
+## 武將名稱與立繪
+
+- [完整武將名稱與詳情](https://kaisendb.com/zh-hant/llms-heroes.txt)
+- [完整立繪與變裝索引](https://kaisendb.com/zh-hant/llms-illustrations.txt)
+
+## 武將圖鑑
+
+- [武將圖鑑](https://kaisendb.com/zh-hant/heroes/): 按名稱瀏覽完整武將名單，查詢技能、屬性與兩服首發日期。
+- [首次開放時間表](https://kaisendb.com/zh-hant/releases/): 按稀有度與形態查詢日服、繁中服的首發日期與出處，含待核實條目的最早記錄。
+- [化生萬物·女媧](https://kaisendb.com/zh-hant/heroes/608190): UR+ 輔助武將。查詢一念化生的選人條件、櫻釋和珊瑚石頭飾領取位置。
+- [現在·幽靈再現 UR+](https://kaisendb.com/zh-hant/heroes/603680): 繁中服名為現在·幽靈再現。查詢技能、兩服首次開放、龍魂搭配、高畫質立繪和水果手機。
+- [文豪美夢·小元](https://kaisendb.com/zh-hant/heroes/601174): 繁中服名為文豪美夢·小元。收錄兩服的招募時段、情章未竟各段效果和虎寶位置。
+- [武靈軀目錄](https://kaisendb.com/zh-hant/weapons/): 查詢武靈軀技能和契約武將。
+- [超凡者目錄](https://kaisendb.com/zh-hant/transcendents/): 查詢同行技能和專屬記憶。
+- [立繪圖鑑](https://kaisendb.com/zh-hant/art-library/): 按名稱查武將、變裝、武靈軀和超凡者立繪、互動動作和語音。
+- [武將皮膚與變裝](https://kaisendb.com/zh-hant/skins/): 瀏覽原版皮膚立繪，檢視對應武將的變裝獲取方式與互動。
+
+## 攻略
+
+- [角色圖鑑與養成攻略導航](https://kaisendb.com/zh-hant/guides/): 對照小元 UR+ 的兩服首發日期與出處，查日服星靈商店、星海套養成和陣容攻略。
+- [新手遊玩必看](https://kaisendb.com/zh-hant/beginner/): 開局順序、主線與等級解鎖、五日任務與獎勵。
+- [陣容搭配](https://kaisendb.com/zh-hant/teams/): PVE、PVP 陣容及武將搭配。
+- [武將強度榜](https://kaisendb.com/zh-hant/teams/loadouts/): SS 檔與 S 檔武將、入榜技能、上陣條件和評價來源。
+- [誓約與婚嫁](https://kaisendb.com/zh-hant/marriage/): 夢中春日的等級門檻、花嫁武將、婚戒婚紗與誓約歷程。
+- [裝備攻略](https://kaisendb.com/zh-hant/equipment/): 星海套獲取、升階材料和裝備大師。
+- [提升戰力](https://kaisendb.com/zh-hant/power/): 前期、中期和後期的培養路線。
+- [武將龍魂技能搭配](https://kaisendb.com/zh-hant/dragon-soul/builds/): 按武將形態檢視四個隨機槽、六級固定天賦和替換建議。
+
+## 資源與活動
+
+- [資源獲取](https://kaisendb.com/zh-hant/resources/): 查詢日服常駐與限時來源、數量和兌換條件。
+- [資源詳情目錄](https://kaisendb.com/zh-hant/resources/catalog/): 按資源瀏覽獨立獲取詳情頁。
+- [星靈獲取方式](https://kaisendb.com/zh-hant/resources/311/): 查元寶商店、同盟商店、跨服競技商店和限時獎勵的數量與條件。
+- [星光核獲取方式](https://kaisendb.com/zh-hant/resources/310/): 查常駐商店、限時玩法與每次兌換數量。
+- [寶物圖鑑羈絆](https://kaisendb.com/zh-hant/bonds/treasures/): 寶物獲取、羈絆啟用條件、星級加成和首次獎勵。
+- [文房趣（繁中服文房趣味）](https://kaisendb.com/zh-hant/bonds/treasures/473/): 虎寶、貓毛筆、竹蜻蜓模型與任意門模型的獲取方式，以及 1、6、10 星羈絆與首次獎勵。
+- [限時活動](https://kaisendb.com/zh-hant/events/): 檢視日服和繁中服活動規則、獎勵和兌換。
+- [暗夜之影／午夜魅影](https://kaisendb.com/zh-hant/events/dark-shadow/): 兩服 2026 年 11 月彈珠活動，含武將碎片、活躍、兌換和限時禮包。
+- [偷拍攝像機](https://kaisendb.com/zh-hant/bonds/treasures/700934/): 完成活躍任務、達到彈珠累計發射檔位，或用活動獎券兌換碎片。
+- [高定高跟鞋](https://kaisendb.com/zh-hant/bonds/treasures/700935/): 在活動特賣頁獲得紀念禮盒Ⅱ後，可自選高定高跟鞋本體。
+- [水果手機](https://kaisendb.com/zh-hant/bonds/treasures/703680/): 在武將原始立繪中點選手機領取本體，專屬碎片可在活動兌換店獲得。
+- [登入送 2024 連抽](https://kaisendb.com/zh-hant/events/anniversary-2024/): 繁中服 2024 年兩週年活動、重生服、五虎上將自選與當前資格核對方式。
+
+## 客戶端下載與開服
+
+- [iOS 與安卓下載](https://kaisendb.com/zh-hant/download/): 日服與繁中服的 App Store、Google Play 官方入口及系統要求。
+- [新區與開服](https://kaisendb.com/zh-hant/servers/): 各區服的開服公告查詢方式、選服和開局任務。
+- [MOD 與官方皮膚](https://kaisendb.com/zh-hant/download/mod/): 核對客戶端、立繪替換和官方變裝，查 iOS 與安卓應用編號。
+- [玩家論壇社群](https://kaisendb.com/zh-hant/community/): Wiki 交流群、公開討論區、配隊提問與資料反饋。

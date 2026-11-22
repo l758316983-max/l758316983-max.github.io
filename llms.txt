@@ -1,0 +1,55 @@
+# 少女回战 Wiki
+
+> 少女回战 Wiki是日服《少女廻戦》和繁中服《少女迴戰》的玩家资料站。已收录 531 名武将、67 个武灵躯和 15 位超凡者。查武将技能、高清立绘、皮肤与首发时间，浏览新手攻略、PVE 和 PVP 阵容推荐、武将强度榜和资源获取。
+
+[繁體中文索引](https://kaisendb.com/zh-hant/llms.txt)
+
+## 武将名称与立绘
+
+- [完整武将名称与详情](https://kaisendb.com/llms-heroes.txt)
+- [完整立绘与变装索引](https://kaisendb.com/llms-illustrations.txt)
+
+## 武将图鉴
+
+- [武将图鉴](https://kaisendb.com/heroes/): 按名称浏览完整武将名单，查询技能、属性与两服首发日期。
+- [首次开放时间表](https://kaisendb.com/releases/): 按稀有度与形态查询日服、繁中服的首发日期与出处，含待核实条目的最早记录。
+- [化生万物·女娲](https://kaisendb.com/heroes/608190): UR+ 辅助武将。查询一念化生的选人条件、樱释和珊瑚石头饰领取位置。
+- [现在·幽灵再现 UR+](https://kaisendb.com/heroes/603680): 繁中服名为現在·幽靈再現。查询技能、两服首次开放、龙魂搭配、高清立绘和水果手机。
+- [文豪之梦·小元](https://kaisendb.com/heroes/601174): 繁中服名为文豪美夢·小元。收录两服的招募时段、情章未竟各段效果和虎宝位置。
+- [武灵躯目录](https://kaisendb.com/weapons/): 查询武灵躯技能和契约武将。
+- [超凡者目录](https://kaisendb.com/transcendents/): 查询同行技能和专属记忆。
+- [立绘图鉴](https://kaisendb.com/art-library/): 按名称查武将、变装、武灵躯和超凡者立绘、互动动作和语音。
+- [武将皮肤与变装](https://kaisendb.com/skins/): 浏览原版皮肤立绘，查看对应武将的变装获取方式与互动。
+
+## 攻略
+
+- [角色图鉴与养成攻略导航](https://kaisendb.com/guides/): 对照小元 UR+ 的两服首发日期与出处，查日服星灵商店、星海套养成和阵容攻略。
+- [新手游玩必看](https://kaisendb.com/beginner/): 开局顺序、主线与等级解锁、五日任务与奖励。
+- [阵容搭配](https://kaisendb.com/teams/): PVE、PVP 阵容及武将搭配。
+- [武将强度榜](https://kaisendb.com/teams/loadouts/): SS 档与 S 档武将、入榜技能、上阵条件和评价来源。
+- [誓约与婚嫁](https://kaisendb.com/marriage/): 梦中春日的等级门槛、花嫁武将、婚戒婚纱与誓约历程。
+- [装备攻略](https://kaisendb.com/equipment/): 星海套获取、升阶材料和装备大师。
+- [提升战力](https://kaisendb.com/power/): 前期、中期和后期的培养路线。
+- [武将龙魂技能搭配](https://kaisendb.com/dragon-soul/builds/): 按武将形态查看四个随机槽、六级固定天赋和替换建议。
+
+## 资源与活动
+
+- [资源获取](https://kaisendb.com/resources/): 查询日服常驻与限时来源、数量和兑换条件。
+- [资源详情目录](https://kaisendb.com/resources/catalog/): 按资源浏览独立获取详情页。
+- [星灵获取方式](https://kaisendb.com/resources/311/): 查元宝商店、同盟商店、跨服竞技商店和限时奖励的数量与条件。
+- [星光核获取方式](https://kaisendb.com/resources/310/): 查常驻商店、限时玩法与每次兑换数量。
+- [宝物图鉴羁绊](https://kaisendb.com/bonds/treasures/): 宝物获取、羁绊激活条件、星级加成和首次奖励。
+- [文房趣（繁中服文房趣味）](https://kaisendb.com/bonds/treasures/473/): 虎宝、猫毛笔、竹蜻蜓模型与任意门模型的获取方式，以及 1、6、10 星羁绊与首次奖励。
+- [限时活动](https://kaisendb.com/events/): 查看日服和繁中服活动规则、奖励和兑换。
+- [暗夜之影／午夜魅影](https://kaisendb.com/events/dark-shadow/): 两服 2026 年 11 月弹珠活动，含武将碎片、活跃、兑换和限时礼包。
+- [偷拍摄像机](https://kaisendb.com/bonds/treasures/700934/): 完成活跃任务、达到弹珠累计发射档位，或用活动奖券兑换碎片。
+- [高定高跟鞋](https://kaisendb.com/bonds/treasures/700935/): 在活动特卖页获得纪念礼盒Ⅱ后，可自选高定高跟鞋本体。
+- [水果手机](https://kaisendb.com/bonds/treasures/703680/): 在武将原始立绘中点击手机领取本体，专属碎片可在活动兑换店获得。
+- [登录送 2024 连抽](https://kaisendb.com/events/anniversary-2024/): 繁中服 2024 年两周年活动、重生服、五虎上将自选与当前资格核对方式。
+
+## 客户端下载与开服
+
+- [iOS 与安卓下载](https://kaisendb.com/download/): 日服与繁中服的 App Store、Google Play 官方入口及系统要求。
+- [新区与开服](https://kaisendb.com/servers/): 各区服的开服公告查询方式、选服和开局任务。
+- [MOD 与官方皮肤](https://kaisendb.com/download/mod/): 核对客户端、立绘替换和官方变装，查 iOS 与安卓应用编号。
+- [玩家论坛社区](https://kaisendb.com/community/): Wiki 交流群、公开讨论区、配队提问与资料反馈。
