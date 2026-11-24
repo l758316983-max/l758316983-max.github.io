@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url><loc>https://kaisendb.com/zh-hant/</loc><lastmod>2026-11-20</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/</loc><lastmod>2026-11-24</lastmod><image:image><image:loc>https://kaisendb.com/images/nuwa-full.webp</image:loc></image:image></url>
   <url><loc>https://kaisendb.com/zh-hant/apocalypse/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/art-library/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/art-library/</loc><lastmod>2026-11-24</lastmod><image:image><image:loc>https://kaisendb.com/images/ghost-return/original.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/xiaoyuan/skin.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/ffa0d4ee4a3af8cf.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/2a115844f3556472.webp</image:loc></image:image></url>
   <url><loc>https://kaisendb.com/zh-hant/beginner/</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/bonds/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/bonds/treasures/</loc><lastmod>2026-11-15</lastmod></url>
@@ -21,7 +21,7 @@
   <url><loc>https://kaisendb.com/zh-hant/events/</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/events/anniversary-2024/</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/events/dark-shadow/</loc><lastmod>2026-11-20</lastmod></url>
-  <url><loc>https://kaisendb.com/zh-hant/guides/</loc><lastmod>2026-11-20</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/guides/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/guild/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/heroes/</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/heroes/601010</loc><lastmod>2026-11-19</lastmod><image:image><image:loc>https://kaisendb.com/art-library/illustrations/herocard_caocao01.webp</image:loc></image:image></url>
@@ -559,14 +559,14 @@
   <url><loc>https://kaisendb.com/zh-hant/heroes/609960</loc><lastmod>2026-11-19</lastmod><image:image><image:loc>https://kaisendb.com/art-library/illustrations/herocard_qianlongwuyongyingzheng01.webp</image:loc></image:image></url>
   <url><loc>https://kaisendb.com/zh-hant/heroes/609970</loc><lastmod>2026-11-19</lastmod><image:image><image:loc>https://kaisendb.com/art-library/illustrations/herocard_daxianliangshizhangjiao01.webp</image:loc></image:image></url>
   <url><loc>https://kaisendb.com/zh-hant/heroes/609980</loc><lastmod>2026-11-19</lastmod><image:image><image:loc>https://kaisendb.com/art-library/illustrations/herocard_shashenbaiqi01.webp</image:loc></image:image></url>
-  <url><loc>https://kaisendb.com/zh-hant/heroes/nuwa</loc><lastmod>2026-11-15</lastmod></url>
-  <url><loc>https://kaisendb.com/zh-hant/heroes/xiaoyuan-art/</loc></url>
+  <url><loc>https://kaisendb.com/zh-hant/heroes/nuwa</loc><lastmod>2026-11-15</lastmod><image:image><image:loc>https://kaisendb.com/images/nuwa-full.webp</image:loc></image:image></url>
+  <url><loc>https://kaisendb.com/zh-hant/heroes/xiaoyuan-art/</loc><image:image><image:loc>https://kaisendb.com/images/xiaoyuan/original.webp</image:loc></image:image></url>
   <url><loc>https://kaisendb.com/zh-hant/liuhou/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/marriage/</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/maze/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/power/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/private-equipment/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/releases/</loc><lastmod>2026-11-18</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/releases/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/resonance/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/1/</loc></url>
@@ -631,83 +631,83 @@
   <url><loc>https://kaisendb.com/zh-hant/resources/1088/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/11/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/110/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11001/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11002/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11004/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11005/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11006/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11007/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11008/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11009/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11010/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11011/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11014/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11015/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11017/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11018/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11019/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11020/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11021/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11022/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11023/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11024/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11025/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11029/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11030/</loc></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11001/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11002/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11004/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11005/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11006/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11007/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11008/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11009/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11010/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11011/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11014/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11015/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11017/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11018/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11019/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11020/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11021/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11022/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11023/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11024/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11025/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11029/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11030/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/11032/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/11033/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/11034/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11036/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11037/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11038/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11039/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11040/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11041/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11042/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11043/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11044/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11045/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11046/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11047/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11048/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11049/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11050/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11051/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11052/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11055/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11056/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11057/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11058/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11059/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11060/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11062/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11063/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11064/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11065/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11066/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11067/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11068/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11069/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11073/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11074/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11075/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11076/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11077/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11078/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11081/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11082/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11083/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11084/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11085/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11086/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11087/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11088/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11089/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11090/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11091/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11092/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11093/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/11094/</loc></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11036/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11037/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11038/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11039/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11040/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11041/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11042/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11043/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11044/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11045/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11046/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11047/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11048/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11049/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11050/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11051/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11052/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11055/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11056/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11057/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11058/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11059/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11060/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11062/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11063/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11064/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11065/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11066/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11067/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11068/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11069/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11073/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11074/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11075/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11076/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11077/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11078/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11081/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11082/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11083/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11084/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11085/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11086/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11087/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11088/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11089/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11090/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11091/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11092/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11093/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/11094/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/111/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/112/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/1121/</loc></url>
@@ -751,197 +751,197 @@
   <url><loc>https://kaisendb.com/zh-hant/resources/1329/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/133/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/1330/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13325/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13326/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13327/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13328/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13329/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13330/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13331/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13332/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13333/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13334/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13335/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13336/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13337/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13338/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13339/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13340/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13341/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13342/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13343/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13344/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13345/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13346/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13347/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13348/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13349/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13350/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13352/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13354/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13355/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13356/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13357/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13358/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13359/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13360/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13361/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13362/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13363/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13364/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13365/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13366/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13367/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13368/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13369/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13370/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13371/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13372/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13373/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13374/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13375/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13376/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13377/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13378/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13379/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13380/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13381/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13382/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13384/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13385/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13386/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13387/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13388/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13389/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13390/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13391/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13392/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13393/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13394/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13395/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13396/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13397/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13398/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13399/</loc></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13325/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13326/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13327/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13328/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13329/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13330/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13331/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13332/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13333/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13334/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13335/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13336/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13337/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13338/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13339/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13340/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13341/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13342/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13343/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13344/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13345/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13346/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13347/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13348/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13349/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13350/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13352/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13354/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13355/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13356/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13357/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13358/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13359/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13360/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13361/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13362/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13363/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13364/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13365/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13366/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13367/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13368/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13369/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13370/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13371/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13372/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13373/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13374/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13375/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13376/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13377/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13378/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13379/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13380/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13381/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13382/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13384/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13385/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13386/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13387/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13388/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13389/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13390/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13391/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13392/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13393/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13394/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13395/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13396/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13397/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13398/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13399/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/134/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13400/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13401/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13402/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13403/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13404/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13405/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13406/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13407/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13408/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13409/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13410/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13411/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13412/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13413/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13414/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13415/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13416/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13417/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13418/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13419/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13420/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13421/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13422/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13423/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13424/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13425/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13426/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13427/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13428/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13429/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13430/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13431/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13432/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13433/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13434/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13435/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13436/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13437/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13438/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13439/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13440/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13441/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13442/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13443/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13444/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13445/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13446/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13447/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13448/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13449/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13450/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13451/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13452/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13453/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13454/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13455/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13456/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13457/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13458/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13459/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13460/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13461/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13464/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13465/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13466/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13467/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13468/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13469/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13470/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13471/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13472/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13473/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13474/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13475/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13476/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13477/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13478/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13479/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13480/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13481/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13482/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13483/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13484/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13485/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13486/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13487/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13488/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13489/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13490/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13491/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13492/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13493/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13494/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13495/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13496/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13497/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13498/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13499/</loc></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13400/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13401/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13402/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13403/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13404/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13405/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13406/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13407/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13408/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13409/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13410/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13411/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13412/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13413/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13414/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13415/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13416/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13417/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13418/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13419/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13420/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13421/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13422/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13423/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13424/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13425/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13426/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13427/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13428/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13429/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13430/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13431/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13432/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13433/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13434/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13435/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13436/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13437/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13438/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13439/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13440/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13441/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13442/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13443/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13444/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13445/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13446/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13447/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13448/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13449/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13450/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13451/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13452/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13453/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13454/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13455/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13456/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13457/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13458/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13459/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13460/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13461/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13464/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13465/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13466/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13467/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13468/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13469/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13470/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13471/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13472/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13473/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13474/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13475/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13476/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13477/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13478/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13479/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13480/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13481/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13482/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13483/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13484/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13485/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13486/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13487/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13488/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13489/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13490/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13491/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13492/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13493/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13494/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13495/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13496/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13497/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13498/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13499/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/135/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13500/</loc></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13500/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/136/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13600/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13601/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13602/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13603/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13604/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13605/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13606/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13607/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13608/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13609/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13610/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13611/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13612/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13613/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13614/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13615/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/13616/</loc></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13600/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13601/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13602/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13603/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13604/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13605/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13606/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13607/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13608/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13609/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13610/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13611/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13612/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13613/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13614/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13615/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/13616/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/137/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/14/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/140/</loc></url>
@@ -1511,7 +1511,7 @@
   <url><loc>https://kaisendb.com/zh-hant/resources/17012/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/17013/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/17014/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/resources/1710043/</loc></url>
+  <url><loc>https://kaisendb.com/zh-hant/resources/1710043/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/172/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/1831/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/1832/</loc></url>
@@ -6266,12 +6266,12 @@
   <url><loc>https://kaisendb.com/zh-hant/resources/soul-902082/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/resources/soul-902083/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/servers/</loc><lastmod>2026-11-16</lastmod></url>
-  <url><loc>https://kaisendb.com/zh-hant/skins/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/skins/</loc><lastmod>2026-11-24</lastmod><image:image><image:loc>https://kaisendb.com/images/xiaoyuan/skin.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/ffa0d4ee4a3af8cf.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/2a115844f3556472.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/9445a22e7eadfbc8.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/13c00acd94fca8d3.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/06be612988c0c4f7.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/906b7301a9415941.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/8d80d18cf209b658.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/399dc5277ad7e513.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/23a5797921455cca.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/73414523e5d26cf5.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/83b0e67515fda088.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/babb5567a6c66273.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/c7d55b9303ccf18a.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/319dc4f0f8fa0bc8.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/7b26d28d765ad2fd.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/24c5d8b78bf51d6e.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/eafaec821deb8744.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/38e4690916f1bde6.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/253179600fcc28df.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/4301bf59e68fdc8c.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/d8e34f69d098f921.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/24c0b33c429d1c5f.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/f34b3c7e72d9aa25.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/3f73295530ff7465.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/d493dbf2ad66c696.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/4412b15c1d5a3e3e.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/ccc5c0d5784be992.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/773a6b77390a197c.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/289ff631b04c7cd5.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/6b22d991829e9455.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/d6a35f1cf4b6b121.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/cdc18d5045436e10.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/b2ac23c445120cd0.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/721d96c473032130.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/d5b1319dab6fc042.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/cdf1aed03ec84cff.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/015f3211a8481e5d.webp</image:loc></image:image></url>
   <url><loc>https://kaisendb.com/zh-hant/souls/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/spirits/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/teams/</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/teams/loadouts/</loc><lastmod>2026-11-16</lastmod></url>
-  <url><loc>https://kaisendb.com/zh-hant/transcendents/</loc></url>
+  <url><loc>https://kaisendb.com/zh-hant/transcendents/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/transcendents/336001</loc><image:image><image:loc>https://kaisendb.com/art-library/illustrations/mountcard_dilu01.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/art-library/illustrations/mountcard_dilu02.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/art-library/illustrations/mountcard_dilu03.webp</image:loc></image:image></url>
   <url><loc>https://kaisendb.com/zh-hant/transcendents/336002</loc><image:image><image:loc>https://kaisendb.com/art-library/illustrations/mountcard_zhaohuangfeidian01.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/art-library/illustrations/mountcard_zhaohuangfeidian02.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/art-library/illustrations/mountcard_zhaohuangfeidian03.webp</image:loc></image:image></url>
   <url><loc>https://kaisendb.com/zh-hant/transcendents/336003</loc><image:image><image:loc>https://kaisendb.com/art-library/illustrations/mountcard_kuaihang01.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/art-library/illustrations/mountcard_kuaihang02.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/art-library/illustrations/mountcard_kuaihang03.webp</image:loc></image:image></url>
@@ -6287,7 +6287,7 @@
   <url><loc>https://kaisendb.com/zh-hant/transcendents/336013</loc><image:image><image:loc>https://kaisendb.com/art-library/illustrations/mountcard_saluzi01.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/art-library/illustrations/mountcard_saluzi02.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/art-library/illustrations/mountcard_saluzi03.webp</image:loc></image:image></url>
   <url><loc>https://kaisendb.com/zh-hant/transcendents/336014</loc><image:image><image:loc>https://kaisendb.com/art-library/illustrations/mountcard_qingluan01.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/art-library/illustrations/mountcard_qingluan02.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/art-library/illustrations/mountcard_qingluan03.webp</image:loc></image:image></url>
   <url><loc>https://kaisendb.com/zh-hant/transcendents/336015</loc><image:image><image:loc>https://kaisendb.com/art-library/illustrations/mountcard_sibuxiang01.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/art-library/illustrations/mountcard_sibuxiang02.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/art-library/illustrations/mountcard_sibuxiang03.webp</image:loc></image:image></url>
-  <url><loc>https://kaisendb.com/zh-hant/weapons/</loc></url>
+  <url><loc>https://kaisendb.com/zh-hant/weapons/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/weapons/504101</loc><image:image><image:loc>https://kaisendb.com/art-library/illustrations/weapon-504101.webp</image:loc></image:image></url>
   <url><loc>https://kaisendb.com/zh-hant/weapons/504102</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/weapons/504106</loc><image:image><image:loc>https://kaisendb.com/art-library/illustrations/weapon-504106.webp</image:loc></image:image></url>
