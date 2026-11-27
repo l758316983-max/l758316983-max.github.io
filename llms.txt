@@ -1,6 +1,6 @@
 # 少女回战 Wiki
 
-> 少女回战 Wiki（kaisendb.com）是日服《少女廻戦》和繁中服《少女迴戰》的玩家资料站。已收录 531 名武将、67 个武灵躯和 15 位超凡者。查武将技能、高清立绘、皮肤与首发时间，浏览新手攻略、PVE 和 PVP 阵容推荐、武将强度榜和资源获取。
+> 少女回战 Wiki（kaisendb.com）是日服《少女廻戦》和繁中服《少女迴戰》的玩家资料站。已收录 532 名武将、67 个武灵躯和 15 位超凡者。查武将技能、高清立绘、皮肤与首发时间，浏览新手攻略、PVE 和 PVP 阵容推荐、武将强度榜和资源获取。
 
 [繁體中文索引](https://kaisendb.com/zh-hant/llms.txt)
 
@@ -14,6 +14,11 @@
 - [武将图鉴](https://kaisendb.com/heroes/): 按名称浏览完整武将名单，查询技能、属性与两服首发日期。
 - [首次开放时间表](https://kaisendb.com/releases/): 按稀有度与形态查询日服、繁中服的首发日期与出处，含待核实条目的最早记录。
 - [化生万物·女娲](https://kaisendb.com/heroes/608190): UR+ 辅助武将。查询一念化生的选人条件、樱释和珊瑚石头饰领取位置。
+- [朔漠归鸿·王昭君 UR+](https://kaisendb.com/heroes/608200): 日服首次招募、五音技能、神通、原版动态立绘和日语互动，专属宝物望乡阮琴。
+- [沉鱼落雁 · 龙宫借宝](https://kaisendb.com/events/sinking-fish/): 日服第 7 期龙宫借宝开放与兑换时间，以及王昭君同期招募。
+- [昭君旧梦](https://kaisendb.com/bonds/treasures/476/): 日服宝物羁绊，成员为望乡阮琴与塞外寒梅。
+- [望乡阮琴](https://kaisendb.com/bonds/treasures/708200/): 原始立绘互动领取，查看合成需求与 1 至 10 星生命值和智力加成。
+- [塞外寒梅](https://kaisendb.com/bonds/treasures/700936/): 查看日服宝物资料与 1 至 10 星生命值、体力加成。
 - [现在·幽灵再现 UR+](https://kaisendb.com/heroes/603680): 繁中服名为現在·幽靈再現。查询技能、两服首次开放、龙魂搭配、高清立绘和水果手机。
 - [文豪之梦·小元](https://kaisendb.com/heroes/601174): 繁中服名为文豪美夢·小元。收录两服的招募时段、情章未竟各段效果和虎宝位置。
 - [武灵躯目录](https://kaisendb.com/weapons/): 查询武灵躯技能和契约武将。

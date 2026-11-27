@@ -1,6 +1,7 @@
 # 立绘与变装索引 · 少女回战 Wiki
-> 685 条公开立绘。每条记录关联立绘查看器、角色资料与图片文件。
+> 686 条公开立绘。每条记录关联立绘查看器、角色资料与图片文件。
 
+- [朔漠归鸿·王昭君](https://kaisendb.com/art-library/?asset=hero-608200) · [角色资料中的立绘](https://kaisendb.com/heroes/608200#character-illustrations) · [原图](https://kaisendb.com/images/zhaojun/original.webp)
 - [现在·幽灵再现](https://kaisendb.com/art-library/?asset=hero-603680) · [角色资料中的立绘](https://kaisendb.com/heroes/603680#character-illustrations) · [原图](https://kaisendb.com/images/ghost-return/original.webp)
 - [文豪之梦·小元](https://kaisendb.com/art-library/?asset=hero-601174) · [角色资料中的立绘](https://kaisendb.com/heroes/601174#character-illustrations) · [原图](https://kaisendb.com/images/xiaoyuan/original.webp)
 - [文豪之梦·小元变装](https://kaisendb.com/art-library/?asset=skin-601174-60117401&kind=skin) · [角色资料中的立绘](https://kaisendb.com/heroes/601174#character-illustrations) · [原图](https://kaisendb.com/images/xiaoyuan/skin.webp)

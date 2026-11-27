@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url><loc>https://kaisendb.com/zh-hant/</loc><lastmod>2026-11-24</lastmod><image:image><image:loc>https://kaisendb.com/images/nuwa-full.webp</image:loc></image:image></url>
   <url><loc>https://kaisendb.com/zh-hant/apocalypse/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/art-library/</loc><lastmod>2026-11-24</lastmod><image:image><image:loc>https://kaisendb.com/images/ghost-return/original.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/xiaoyuan/skin.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/ffa0d4ee4a3af8cf.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/2a115844f3556472.webp</image:loc></image:image></url>
+  <url><loc>https://kaisendb.com/zh-hant/art-library/</loc><lastmod>2026-11-24</lastmod><image:image><image:loc>https://kaisendb.com/images/zhaojun/original.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/xiaoyuan/skin.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/ffa0d4ee4a3af8cf.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/2a115844f3556472.webp</image:loc></image:image></url>
   <url><loc>https://kaisendb.com/zh-hant/beginner/</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/bonds/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/bonds/treasures/</loc><lastmod>2026-11-15</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/bonds/treasures/473/</loc><lastmod>2026-11-15</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/bonds/treasures/476/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/bonds/treasures/700934/</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/bonds/treasures/700935/</loc><lastmod>2026-11-20</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/bonds/treasures/700936/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/bonds/treasures/703680/</loc><lastmod>2026-11-20</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/bonds/treasures/708200/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/community/</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/courtyard/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/download/</loc><lastmod>2026-11-16</lastmod></url>
@@ -21,6 +24,7 @@
   <url><loc>https://kaisendb.com/zh-hant/events/</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/events/anniversary-2024/</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/events/dark-shadow/</loc><lastmod>2026-11-20</lastmod></url>
+  <url><loc>https://kaisendb.com/zh-hant/events/sinking-fish/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/guides/</loc><lastmod>2026-11-24</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/guild/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/heroes/</loc><lastmod>2026-11-15</lastmod></url>
@@ -475,6 +479,7 @@
   <url><loc>https://kaisendb.com/zh-hant/heroes/608170</loc><lastmod>2026-11-19</lastmod><image:image><image:loc>https://kaisendb.com/art-library/illustrations/herocard_zhaogedangkouwenzhong01.webp</image:loc></image:image></url>
   <url><loc>https://kaisendb.com/zh-hant/heroes/608180</loc><lastmod>2026-11-19</lastmod><image:image><image:loc>https://kaisendb.com/art-library/illustrations/herocard_sanjiefengshentaigongwang01.webp</image:loc></image:image></url>
   <url><loc>https://kaisendb.com/zh-hant/heroes/608190</loc><lastmod>2026-11-19</lastmod><image:image><image:loc>https://kaisendb.com/images/nuwa-full.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/ffa0d4ee4a3af8cf.webp</image:loc></image:image></url>
+  <url><loc>https://kaisendb.com/zh-hant/heroes/608200</loc><lastmod>2026-11-26</lastmod><image:image><image:loc>https://kaisendb.com/images/zhaojun/original.webp</image:loc></image:image></url>
   <url><loc>https://kaisendb.com/zh-hant/heroes/609010</loc><lastmod>2026-11-19</lastmod><image:image><image:loc>https://kaisendb.com/art-library/illustrations/herocard_huangjindang01.webp</image:loc></image:image></url>
   <url><loc>https://kaisendb.com/zh-hant/heroes/609020</loc><lastmod>2026-11-19</lastmod><image:image><image:loc>https://kaisendb.com/art-library/illustrations/herocard_xinnian01.webp</image:loc></image:image></url>
   <url><loc>https://kaisendb.com/zh-hant/heroes/609030</loc><lastmod>2026-11-19</lastmod><image:image><image:loc>https://kaisendb.com/art-library/illustrations/herocard_huangjinjinwei01.webp</image:loc></image:image></url>

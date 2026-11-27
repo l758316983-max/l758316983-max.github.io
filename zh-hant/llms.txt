@@ -1,6 +1,6 @@
 # 少女迴戰 Wiki
 
-> 少女迴戰 Wiki（kaisendb.com）是日服《少女廻戦》和繁中服《少女迴戰》的玩家資料站。已收錄 531 名武將、67 個武靈軀和 15 位超凡者。查武將技能、高畫質立繪、皮膚與首發時間，瀏覽新手攻略、PVE 和 PVP 陣容推薦、武將強度榜和資源獲取。
+> 少女迴戰 Wiki（kaisendb.com）是日服《少女廻戦》和繁中服《少女迴戰》的玩家資料站。已收錄 532 名武將、67 個武靈軀和 15 位超凡者。查武將技能、高畫質立繪、皮膚與首發時間，瀏覽新手攻略、PVE 和 PVP 陣容推薦、武將強度榜和資源獲取。
 
 [簡體中文索引](https://kaisendb.com/llms.txt)
 
@@ -14,6 +14,11 @@
 - [武將圖鑑](https://kaisendb.com/zh-hant/heroes/): 按名稱瀏覽完整武將名單，查詢技能、屬性與兩服首發日期。
 - [首次開放時間表](https://kaisendb.com/zh-hant/releases/): 按稀有度與形態查詢日服、繁中服的首發日期與出處，含待核實條目的最早記錄。
 - [化生萬物·女媧](https://kaisendb.com/zh-hant/heroes/608190): UR+ 輔助武將。查詢一念化生的選人條件、櫻釋和珊瑚石頭飾領取位置。
+- [朔漠歸鴻·王昭君 UR+](https://kaisendb.com/zh-hant/heroes/608200): 日服首次招募、五音技能、神通、原版動態立繪和日語互動，專屬寶物望鄉阮琴。
+- [沉魚落雁 · 龍宮借寶](https://kaisendb.com/zh-hant/events/sinking-fish/): 日服第 7 期龍宮借寶開放與兌換時間，以及王昭君同期招募。
+- [昭君舊夢](https://kaisendb.com/zh-hant/bonds/treasures/476/): 日服寶物羈絆，成員為望鄉阮琴與塞外寒梅。
+- [望鄉阮琴](https://kaisendb.com/zh-hant/bonds/treasures/708200/): 原始立繪互動領取，檢視合成需求與 1 至 10 星生命值和智力加成。
+- [塞外寒梅](https://kaisendb.com/zh-hant/bonds/treasures/700936/): 檢視日服寶物資料與 1 至 10 星生命值、體力加成。
 - [現在·幽靈再現 UR+](https://kaisendb.com/zh-hant/heroes/603680): 繁中服名為現在·幽靈再現。查詢技能、兩服首次開放、龍魂搭配、高畫質立繪和水果手機。
 - [文豪美夢·小元](https://kaisendb.com/zh-hant/heroes/601174): 繁中服名為文豪美夢·小元。收錄兩服的招募時段、情章未竟各段效果和虎寶位置。
 - [武靈軀目錄](https://kaisendb.com/zh-hant/weapons/): 查詢武靈軀技能和契約武將。
