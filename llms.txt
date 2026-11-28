@@ -1,6 +1,6 @@
 # 少女回战 Wiki
 
-> 少女回战 Wiki（kaisendb.com）是日服《少女廻戦》和繁中服《少女迴戰》的玩家资料站。已收录 533 名武将、68 个武灵躯和 15 位超凡者。查武将技能、高清立绘、皮肤与首发时间，浏览新手攻略、PVE 和 PVP 阵容推荐、武将强度榜和资源获取。
+> 少女回战 Wiki（kaisendb.com）是日服《少女廻戦》和繁中服《少女迴戰》的玩家资料站。已收录 533 名武将、69 个武灵躯和 15 位超凡者。查武将技能、高清立绘、皮肤与首发时间，浏览新手攻略、PVE 和 PVP 阵容推荐、武将强度榜和资源获取。
 
 [繁體中文索引](https://kaisendb.com/zh-hant/llms.txt)
 
@@ -16,6 +16,7 @@
 - [化生万物·女娲](https://kaisendb.com/heroes/608190): UR+ 辅助武将。查询一念化生的选人条件、樱释和珊瑚石头饰领取位置。
 - [赛博恶魔·项羽 UR+](https://kaisendb.com/heroes/608210): 两服首轮招募、技能、原版动态立绘与专属宝物三头犬辅助机。
 - [金鞭·觉龙醒雷·神](https://kaisendb.com/weapons/504436): 契约武将、六星属性与两服召唤排期。
+- [鸿蒙·神](https://kaisendb.com/weapons/504441): 两服签到碎片、降临技能和原版动态立绘。
 - [进击的阿羽 · 世界旅行](https://kaisendb.com/events/cyber-xiangyu/): 分别核对两服活动和招募截止时间、兑换与三件同期宝物。
 - [桃园牌数位](https://kaisendb.com/bonds/treasures/474/): 五件宝物的 1、6、10 星攻击力加成与首次奖励。
 - [三头犬辅助机](https://kaisendb.com/bonds/treasures/708210/): 原始立绘第 3 次确认，第 6 次领取；各星级生命值与力量。

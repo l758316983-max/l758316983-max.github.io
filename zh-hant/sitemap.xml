@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url><loc>https://kaisendb.com/zh-hant/</loc><lastmod>2026-11-24</lastmod><image:image><image:loc>https://kaisendb.com/images/nuwa-full.webp</image:loc></image:image></url>
   <url><loc>https://kaisendb.com/zh-hant/apocalypse/</loc></url>
-  <url><loc>https://kaisendb.com/zh-hant/art-library/</loc><lastmod>2026-11-24</lastmod><image:image><image:loc>https://kaisendb.com/images/xiangyu/original.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/xiaoyuan/skin.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/ffa0d4ee4a3af8cf.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/2a115844f3556472.webp</image:loc></image:image></url>
+  <url><loc>https://kaisendb.com/zh-hant/art-library/</loc><lastmod>2026-11-24</lastmod><image:image><image:loc>https://kaisendb.com/images/december-weapons/hongmeng.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/xiaoyuan/skin.webp</image:loc></image:image><image:image><image:loc>https://kaisendb.com/images/character-details/ffa0d4ee4a3af8cf.webp</image:loc></image:image></url>
   <url><loc>https://kaisendb.com/zh-hant/beginner/</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://kaisendb.com/zh-hant/bonds/</loc></url>
   <url><loc>https://kaisendb.com/zh-hant/bonds/treasures/</loc><lastmod>2026-11-15</lastmod></url>
@@ -672,6 +672,6 @@
   <url><loc>https://kaisendb.com/zh-hant/weapons/504421</loc><image:image><image:loc>https://kaisendb.com/art-library/illustrations/weapon-504421.webp</image:loc></image:image></url>
   <url><loc>https://kaisendb.com/zh-hant/weapons/504426</loc><image:image><image:loc>https://kaisendb.com/art-library/motions/471f75c4622348c8.webp</image:loc></image:image></url>
   <url><loc>https://kaisendb.com/zh-hant/weapons/504431</loc><image:image><image:loc>https://kaisendb.com/art-library/motions/9fc6f50c56a9e26f.webp</image:loc></image:image></url>
-  <url><loc>https://kaisendb.com/zh-hant/weapons/504436</loc><lastmod>2026-11-28</lastmod></url>
-  <url><loc>https://kaisendb.com/zh-hant/weapons/504441</loc></url>
+  <url><loc>https://kaisendb.com/zh-hant/weapons/504436</loc><lastmod>2026-11-28</lastmod><image:image><image:loc>https://kaisendb.com/images/december-weapons/whip.webp</image:loc></image:image></url>
+  <url><loc>https://kaisendb.com/zh-hant/weapons/504441</loc><lastmod>2026-11-28</lastmod><image:image><image:loc>https://kaisendb.com/images/december-weapons/hongmeng.webp</image:loc></image:image></url>
 </urlset>
