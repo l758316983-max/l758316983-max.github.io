@@ -1,6 +1,7 @@
 # 武将名称与详情 · 少女回战 Wiki
-> 532 个公开武将形态。按名称、稀有度与 ID 区分同名武将，并可查已核实的首发日期、出处和立绘。
+> 533 个公开武将形态。按名称、稀有度与 ID 区分同名武将，并可查已核实的首发日期、出处和立绘。
 
+- [赛博恶魔·项羽](https://kaisendb.com/heroes/608210) · UR+ · ID 608210 · 别名 项羽、賽博惡魔·項羽、サイボーグデビル·項羽 · 日服排期 2026-12-01 · 繁中服排期 2026-12-01 · [首发出处](https://kaisendb.com/heroes/608210#character-history) · [立绘](https://kaisendb.com/art-library/?asset=hero-608210) · [繁體資料](https://kaisendb.com/zh-hant/heroes/608210)
 - [朔漠归鸿·王昭君](https://kaisendb.com/heroes/608200) · UR+ · ID 608200 · 别名 王昭君、朔漠帰鴻·王昭君 · 日服首发 2026-11-26 · [首发出处](https://kaisendb.com/heroes/608200#character-history) · [立绘](https://kaisendb.com/art-library/?asset=hero-608200) · [繁體資料](https://kaisendb.com/zh-hant/heroes/608200)
 - [化生万物·女娲](https://kaisendb.com/heroes/608190) · UR+ · ID 608190 · 别名 女娲 · 日服首发 2026-11-01 · 繁中服首发 2026-11-01 · [首发出处](https://kaisendb.com/heroes/608190#character-history) · [立绘](https://kaisendb.com/art-library/?asset=hero-608190) · [繁體資料](https://kaisendb.com/zh-hant/heroes/608190)
 - [镜花水月·妲己](https://kaisendb.com/heroes/609590) · UR+ · ID 609590 · 别名 妲己 · 日服首发 2024-03-01 · 繁中服首发 2024-03-01 · [首发出处](https://kaisendb.com/heroes/609590#character-history) · [立绘](https://kaisendb.com/art-library/?asset=hero-609590) · [繁體資料](https://kaisendb.com/zh-hant/heroes/609590)

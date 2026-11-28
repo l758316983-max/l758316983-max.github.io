@@ -1,6 +1,6 @@
 # 少女迴戰 Wiki
 
-> 少女迴戰 Wiki（kaisendb.com）是日服《少女廻戦》和繁中服《少女迴戰》的玩家資料站。已收錄 532 名武將、67 個武靈軀和 15 位超凡者。查武將技能、高畫質立繪、皮膚與首發時間，瀏覽新手攻略、PVE 和 PVP 陣容推薦、武將強度榜和資源獲取。
+> 少女迴戰 Wiki（kaisendb.com）是日服《少女廻戦》和繁中服《少女迴戰》的玩家資料站。已收錄 533 名武將、68 個武靈軀和 15 位超凡者。查武將技能、高畫質立繪、皮膚與首發時間，瀏覽新手攻略、PVE 和 PVP 陣容推薦、武將強度榜和資源獲取。
 
 [簡體中文索引](https://kaisendb.com/llms.txt)
 
@@ -14,6 +14,13 @@
 - [武將圖鑑](https://kaisendb.com/zh-hant/heroes/): 按名稱瀏覽完整武將名單，查詢技能、屬性與兩服首發日期。
 - [首次開放時間表](https://kaisendb.com/zh-hant/releases/): 按稀有度與形態查詢日服、繁中服的首發日期與出處，含待核實條目的最早記錄。
 - [化生萬物·女媧](https://kaisendb.com/zh-hant/heroes/608190): UR+ 輔助武將。查詢一念化生的選人條件、櫻釋和珊瑚石頭飾領取位置。
+- [賽博惡魔·項羽 UR+](https://kaisendb.com/zh-hant/heroes/608210): 兩服首輪招募、技能、原版動態立繪與專屬寶物三頭犬輔助機。
+- [金鞭·覺龍醒雷·神](https://kaisendb.com/zh-hant/weapons/504436): 契約武將、六星屬性與兩服召喚排期。
+- [進擊的阿羽 · 世界旅行](https://kaisendb.com/zh-hant/events/cyber-xiangyu/): 分別核對兩服活動和招募截止時間、兌換與三件同期寶物。
+- [桃園牌數位](https://kaisendb.com/zh-hant/bonds/treasures/474/): 五件寶物的 1、6、10 星攻擊力加成與首次獎勵。
+- [三頭犬輔助機](https://kaisendb.com/zh-hant/bonds/treasures/708210/): 原始立繪第 3 次確認，第 6 次領取；各星級生命值與力量。
+- [阿羽專用手柄](https://kaisendb.com/zh-hant/bonds/treasures/700938/): 活動兌換碎片、30 枚合成與各星級屬性。
+- [惡魔時裝卡](https://kaisendb.com/zh-hant/bonds/treasures/700939/): 紀念禮盒自選、450 枚碎片合成與各星級屬性。
 - [朔漠歸鴻·王昭君 UR+](https://kaisendb.com/zh-hant/heroes/608200): 日服首次招募、五音技能、神通、原版動態立繪和日語互動，專屬寶物望鄉阮琴。
 - [沉魚落雁 · 龍宮借寶](https://kaisendb.com/zh-hant/events/sinking-fish/): 日服第 7 期龍宮借寶開放與兌換時間，以及王昭君同期招募。
 - [昭君舊夢](https://kaisendb.com/zh-hant/bonds/treasures/476/): 日服寶物羈絆，成員為望鄉阮琴與塞外寒梅。

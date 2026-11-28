@@ -1,6 +1,7 @@
 # 立繪與變裝索引 · 少女迴戰 Wiki
-> 686 條公開立繪。每條記錄關聯立繪檢視器、角色資料與圖片檔案。
+> 687 條公開立繪。每條記錄關聯立繪檢視器、角色資料與圖片檔案。
 
+- [賽博惡魔·項羽](https://kaisendb.com/zh-hant/art-library/?asset=hero-608210) · [角色資料中的立繪](https://kaisendb.com/zh-hant/heroes/608210#character-illustrations) · [原圖](https://kaisendb.com/images/xiangyu/original.webp)
 - [朔漠歸鴻·王昭君](https://kaisendb.com/zh-hant/art-library/?asset=hero-608200) · [角色資料中的立繪](https://kaisendb.com/zh-hant/heroes/608200#character-illustrations) · [原圖](https://kaisendb.com/images/zhaojun/original.webp)
 - [現在·幽靈再現](https://kaisendb.com/zh-hant/art-library/?asset=hero-603680) · [角色資料中的立繪](https://kaisendb.com/zh-hant/heroes/603680#character-illustrations) · [原圖](https://kaisendb.com/images/ghost-return/original.webp)
 - [文豪美夢·小元](https://kaisendb.com/zh-hant/art-library/?asset=hero-601174) · [角色資料中的立繪](https://kaisendb.com/zh-hant/heroes/601174#character-illustrations) · [原圖](https://kaisendb.com/images/xiaoyuan/original.webp)
